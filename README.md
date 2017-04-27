@@ -13,5 +13,3 @@ src: source code.
     Large_Scale_Word2Vector.py: main program, usage refers to final_report.
     build_vocb.py: build vacabulary table.
     evaluate.py: stand alone evaluation program.
-
-
